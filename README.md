@@ -11,8 +11,8 @@ Requirements to run this file:
 1) Download and install python 3.
 
 
-2)Playsound library in python.
-  download using the command "pip install playsound"
+ 2)Playsound library in python.
+   download using the command "pip install playsound"
   
   
 3) After installing the necessary libraries, just run the python file.
